@@ -1,0 +1,10 @@
+1. Merge 2 arrays.
+2. In array update user email to 'user@offsetup.com' if email is equal to "bgillbanksc@noaa.gov".
+3.Remove 6th Item of the array
+4. Adding random numeric at the end.
+E.g.
+Prev: 111.113.58.161 
+New: 111.113.58.322
+5. Check if any object in the array contains ip 111.113.58.161
+
+

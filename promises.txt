@@ -1,0 +1,20 @@
+Functional
+https://jsonplaceholder.typicode.com/todos
+https://jsonplaceholder.typicode.com/comments
+
+
+Non functional
+https://jsonplaceholder.typicode.com/not-found
+
+Sequential Calls
+1.A. https://jsonplaceholder.typicode.com/todos
+1.B. https://jsonplaceholder.typicode.com/not-found
+1.C  https://jsonplaceholder.typicode.com/comments
+
+Parallel Calls
+2.A. https://jsonplaceholder.typicode.com/todos
+2.B. https://jsonplaceholder.typicode.com/comments
+
+Response at the same time.
+
+Promise based solution
